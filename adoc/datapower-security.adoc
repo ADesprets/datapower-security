@@ -30,7 +30,7 @@
 :toc: left
 :toclevels: 2
 
-image::../images/idgX2.png[IDG X2,400,400,float="middle",align="center"]
+image::../images/idgX2.png[IDG X2,450,75,float="middle",align="center"]
 
 
 :toc:
